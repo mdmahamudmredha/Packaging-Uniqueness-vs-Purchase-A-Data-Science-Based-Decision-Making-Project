@@ -14,3 +14,11 @@ A Dog Food Company has introduced a new packaging design. While the marketing an
 
 - Use statistical analysis to support business decision-making.
 
+### 📊 Dataset Description
+
+The dataset contains survey responses with the following columns:
+
+Uniqueness: Categorical values representing how unique the packaging is (Extremely unique, Very unique, Somewhat likely, Not so likely, Not at all likely).
+
+Purchase Likelihood: Categorical values showing the likelihood of purchasing the product based on packaging(Extremely unique, Very unique, Somewhat unique, Not so unique, Not at all unique).
+
