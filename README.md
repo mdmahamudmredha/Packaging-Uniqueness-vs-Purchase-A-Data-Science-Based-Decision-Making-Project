@@ -1,4 +1,4 @@
-# Packaging-Uniqueness-vs-Purchase-A-Data-Science-Based-Decision-Making-Project
+# Packaging Appeal vs. Purchase Behavior: A Data Science Based Decision Making Project
 
 ## 📌 Project Overview
 
