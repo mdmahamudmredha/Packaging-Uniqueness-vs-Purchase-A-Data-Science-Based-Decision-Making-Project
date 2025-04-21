@@ -77,6 +77,7 @@ This project can be used as a reference for:
 - Marketing analytics
 - Product management decisions
 
+## 📁 Project Structure
 Packaging Uniqueness vs Purchase
 ├── [Packaging Uniqueness vs Purchase.ipynb](https://github.com/mdmahamudmredha/Packaging-Uniqueness-vs-Purchase-A-Data-Science-Based-Decision-Making-Project/blob/main/Packaging%20Uniqueness%20vs%20Purchase%20%E2%80%93%20A%20Data%20Science%20Based%20Decision%20Making%20Project.ipynb)
 ├── [README.md]()
