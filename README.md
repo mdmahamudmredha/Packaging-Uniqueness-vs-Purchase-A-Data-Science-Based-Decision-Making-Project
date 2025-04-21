@@ -7,3 +7,10 @@ This project aims to explore whether the uniqueness of packaging for a Dog Food 
 ### 🎯 Problem Statement
 
 A Dog Food Company has introduced a new packaging design. While the marketing and design teams consider it very unique and appealing, the product manager is concerned about its impact on sales, especially due to potential logistics challenges. This project investigates whether there is a statistically significant relationship between packaging uniqueness and purchase intent.
+
+### 🧠 Objective
+
+- Understand if the perceived uniqueness of packaging impacts purchase likelihood.
+
+- Use statistical analysis to support business decision-making.
+
