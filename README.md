@@ -77,12 +77,6 @@ This project can be used as a reference for:
 - Marketing analytics
 - Product management decisions
 
-## 📁 Project Structure
-Packaging Uniqueness vs Purchase
-├── Packaging Uniqueness vs Purchase.ipynb
-├── README.md]()
-├── survey_data.csv
-
 ## 🚀 How to Run
 1. Clone the repository.
 2. Open the notebook in Jupyter.
