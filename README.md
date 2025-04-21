@@ -1,5 +1,9 @@
 # Packaging Appeal vs. Purchase Behavior: A Data Science-Based Decision-Making Project
 
+## 🎥 Video Walkthroughs**:  
+- 🎓 **Full Code + Concept Explanation (For Learners)**: [Watch Here](https://youtu.be/vqXt1wZuaIk?si=byCFR5mYxtwTQQOV)  
+- 🧠 **Non-Technical Output Summary (For Recruiters)**: [Watch Here](https://youtu.be/link_to_recruiter_friendly_video)
+  
 ## 📌 Project Overview
 
 This project aims to explore whether the uniqueness of packaging for a Dog Food product influences customer purchase decisions. A survey of 523 respondents was conducted to gather insights on the perceived uniqueness of packaging and the likelihood of purchasing the product based on that packaging.
